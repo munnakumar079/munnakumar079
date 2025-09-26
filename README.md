@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munnakumar079&label=Profile%20views&color=0e75b6&style=flat" alt="munnakumar079" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munnakumar079" alt="munnakumar079" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/munnaku56097790" target="blank"><img src="https://img.shields.io/twitter/follow/munnaku56097790?logo=twitter&style=for-the-badge" alt="munnaku56097790" /></a> </p>
 
 - 📫 How to reach me **munnakumar68768@gmail.com**
