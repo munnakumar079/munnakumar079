@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munna Kumar</h1>
 <h3 align="center">Full-Stack Web Developer | Skilled in PHP (Laravel) & Node.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munnakumar079&label=Profile%20views&color=0e75b6&style=flat" alt="munnakumar079" /> </p>
-
-<p align="left"> <a href="https://twitter.com/munnaku56097790" target="blank"><img src="https://img.shields.io/twitter/follow/munnaku56097790?logo=twitter&style=for-the-badge" alt="munnaku56097790" /></a> </p>
-
 - 📫 How to reach me **munnakumar68768@gmail.com**
-
-- ⚡ Fun fact **I break things just to fix them better next time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
