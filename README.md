@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Munna Kumar</h1>
-<h3 align="center">Full-Stack Web Developer | Skilled in Node.js & Laravel </h3>
+<h3 align="center">Full-Stack Web Developer | Proficient in Node.js & Laravel </h3>
 
 - 📫 How to reach me **munnakumar68768@gmail.com**
 
