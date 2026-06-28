@@ -73,11 +73,13 @@ Building scalable web applications using React, Next.js, Node.js, Laravel, Postg
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=munnakumar079&show_icons=true&theme=github_dark&hide_border=true"/>
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=munnakumar079&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&cache_seconds=0"/>
+</p>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnakumar079&layout=compact&theme=github_dark&hide_border=true"/>
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnakumar079&layout=compact&langs_count=10&theme=github_dark&hide_border=true&cache_seconds=0"/>
+</p>
 
 </p>
 
