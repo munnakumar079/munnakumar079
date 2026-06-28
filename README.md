@@ -40,13 +40,15 @@ Building scalable web applications using React, Next.js, Node.js, Laravel, Postg
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,materialui,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,materialui,jquery" />
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="48" alt="CodeIgniter" />
 </p>
 
 ### Database
@@ -56,15 +58,17 @@ Building scalable web applications using React, Next.js, Node.js, Laravel, Postg
 </p>
 
 ### Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://cdn.simpleicons.org/filezilla/BF0000" width="48" height="48" alt="FileZilla" />
 </p>
 
 ### Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=vercel,digitalocean" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" width="48" height="48" alt="DigitalOcean" />
+  <img src="https://cdn.simpleicons.org/hostinger/673DE6" width="48" height="48" alt="Hostinger" />
 </p>
 
 ---
@@ -72,26 +76,8 @@ Building scalable web applications using React, Next.js, Node.js, Laravel, Postg
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=munnakumar079&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&cache_seconds=0"/>
-</p>
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnakumar079&layout=compact&langs_count=10&theme=github_dark&hide_border=true&cache_seconds=0"/>
-</p>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=munnakumar079&theme=github-compact"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=munnakumar079&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true&cache_seconds=0" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnakumar079&layout=compact&langs_count=10&theme=default&hide_border=true&cache_seconds=0" />
 </p>
 
 ---
@@ -99,10 +85,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=munnakumar07
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=munnakumar079&theme=algolia&no-frame=true&margin-w=10"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=munnakumar079&theme=onestar&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -112,15 +95,19 @@ src="https://github-profile-trophy.vercel.app/?username=munnakumar079&theme=algo
 <p align="left">
 
 <a href="mailto:munnakumar68768@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://www.linkedin.com/in/munna-kumar-342a51321">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://github.com/munnakumar079">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://instagram.com/endofme_mk">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" alt="Instagram" />
 </a>
 
 </p>
