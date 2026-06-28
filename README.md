@@ -1,25 +1,35 @@
-<h1 align="center">Hi 👋, I'm Munna Kumar</h1>
-
-<h3 align="center">
-Full-Stack Web Developer
-</h3>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9FF&height=180&section=header"/> -->
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Munna+Kumar;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Laravel;Building+Scalable+Web+Applications" />
+</p>
+
+<p align="center" >
 Building scalable web applications using React, Next.js, Node.js, Laravel, PostgreSQL & MySQL.
 </p>
 
-<p align="center">
+<p align="center" >
+<img src="https://komarev.com/ghpvc/?username=munnakumar079&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/munnakumar079?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/munnakumar079?affiliations=OWNER&style=for-the-badge"/>
+</p>
+
+<p align="center" >
+
 <a href="mailto:munnakumar68768@gmail.com">
-<img src="https://img.shields.io/badge/Email-munnakumar68768%40gmail.com-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/munna-kumar-342a51321">
-<img src="https://img.shields.io/badge/LinkedIn-Munna%20Kumar-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Munna%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/munnakumar079">
-<img src="https://img.shields.io/github/followers/munnakumar079?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-munnakumar079-black?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
 
 ---
@@ -27,9 +37,10 @@ Building scalable web applications using React, Next.js, Node.js, Laravel, Postg
 # 👨‍💻 About Me
 
 - 💼 Full-Stack Web Developer
-- 🚀 Experienced in React, Next.js, Node.js & Laravel
-- 🗄️ Database: MySQL, PostgreSQL, MongoDB
+- 🚀 2+ years of experience building scalable web applications
+- ⚛️ React, Next.js, Vue.js, Node.js & Laravel
 - 🔐 REST APIs, JWT Authentication & OAuth
+- 🗄️ MySQL, PostgreSQL & MongoDB
 - ☁️ Deployment using Vercel, Hostinger VPS & DigitalOcean
 - 📍 Patna, Bihar, India
 
@@ -37,38 +48,38 @@ Building scalable web applications using React, Next.js, Node.js, Laravel, Postg
 
 # 🚀 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,materialui,jquery" />
-  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP" />
+<p >
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,materialui,jquery"/>
 </p>
 
-### Backend
+### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="48" alt="CodeIgniter" />
+<p >
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="48" height="48"/>
 </p>
 
-### Database
+### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<p >
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-  <img src="https://cdn.simpleicons.org/filezilla/BF0000" width="48" height="48" alt="FileZilla" />
+### 🛠️ Tools
+
+<p >
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+<img src="https://cdn.simpleicons.org/filezilla/BF0000" width="48" height="48"/>
 </p>
 
-### Deployment
+### ☁️ Deployment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel" />
-  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" width="48" height="48" alt="DigitalOcean" />
-  <img src="https://cdn.simpleicons.org/hostinger/673DE6" width="48" height="48" alt="Hostinger" />
+<p >
+<img src="https://skillicons.dev/icons?i=vercel"/>
+<img src="https://cdn.simpleicons.org/digitalocean/0080FF" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/hostinger/673DE6" width="48" height="48"/>
 </p>
 
 ---
@@ -76,38 +87,37 @@ Building scalable web applications using React, Next.js, Node.js, Laravel, Postg
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=munnakumar079&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnakumar079&layout=compact&langs_count=8&hide_border=true"/>
-</p>
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=munnakumar079&show_icons=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true"/>
 
-## 📈 Contribution Graph
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnakumar079&layout=compact&langs_count=8&theme=default&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=munnakumar079&theme=github-light&hide_border=true" />
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p >
 
 <a href="mailto:munnakumar68768@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/munna-kumar-342a51321">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/munnakumar079">
-  <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://instagram.com/endofme_mk">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" alt="Instagram" />
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48"/>
 </a>
 
 </p>
+
+---
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9FF&height=150&section=footer"/> -->
