@@ -82,10 +82,10 @@ Building scalable web applications using React, Next.js, Node.js, Laravel, Postg
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=munnakumar079&theme=flat&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=munnakumar079&theme=github-light&hide_border=true" />
 </p>
 
 ---
