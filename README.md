@@ -76,8 +76,8 @@ Building scalable web applications using React, Next.js, Node.js, Laravel, Postg
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=munnakumar079&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true&cache_seconds=0" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnakumar079&layout=compact&langs_count=10&theme=default&hide_border=true&cache_seconds=0" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=munnakumar079&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnakumar079&layout=compact&langs_count=8&hide_border=true"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@ Building scalable web applications using React, Next.js, Node.js, Laravel, Postg
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=munnakumar079&theme=onestar&no-frame=true" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=munnakumar079&theme=flat&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
